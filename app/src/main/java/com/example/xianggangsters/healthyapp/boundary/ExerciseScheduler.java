@@ -1,6 +1,6 @@
 package com.example.xianggangsters.healthyapp.boundary;
 /*
-This class
+This class allows the user to put appointments in their calendar for nearby gyms
  */
 public class ExerciseScheduler {
   //scheduler - button
