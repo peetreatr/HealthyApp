@@ -6,6 +6,10 @@ public class SearchTherapeuticProducts {
   //input - textview
   //search - button
   //display - textview
+  therapeuticProducts getTherapeuticProducts(){
+   thereapeuticProducts list[];
+    return list;
+  }
   
   void searchListener{
     
