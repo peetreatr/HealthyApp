@@ -7,4 +7,9 @@ public class MapPM25 {
   //location manager
   //location listener
   //marker
+  
+  public PM25 getPM25(){
+   PM25 list[];
+    return list;
+  }
 }
